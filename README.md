@@ -27,7 +27,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,c,c++,java" />
+<img src="https://skillicons.dev/icons?i=js,python,c,java" />
 </p>
 
 ### Frontend
@@ -57,6 +57,21 @@
 ---
 
 # 🚀 Featured Projects
+
+## 🏨 Brew Haven - Coffe Shop
+
+A fully responsive, premium coffee shop website
+
+- HTML, CSS & Vanilla JavaScript
+- Responsive UI
+- Modern Design
+- Fast Performance
+
+🔗 Live Demo
+
+https://coffee-shop-amber-three.vercel.app/
+
+---
 
 ## 🏨 GrandNest
 
@@ -97,26 +112,6 @@ Features:
 - Personalized Suggestions
 - Doctor Appointment Booking
 - React + Python + Machine Learning
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanmitra00&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmitra00&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sumanmitra00&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
