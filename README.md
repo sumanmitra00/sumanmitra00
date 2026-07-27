@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Suman Mitra
 
-### 💻 Full Stack Developer • React Developer • B.Tech CSE Graduate
+### 💻 Full Stack Developer • Frontend Developer • B.Tech CSE Graduate
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" />
 
@@ -17,9 +17,8 @@
 - 🌱 Currently learning **Advanced React, Node.js, Express.js and Full Stack Development**
 - 💻 Passionate about building responsive and user-friendly web applications
 - 🚀 Interested in Web Development, JavaScript and Modern UI Design
-- 📫 Reach me at **your-email@example.com**
-- 🌐 Portfolio: **https://suman-portfolio-weld.vercel.app**
-- ⚡ Fun Fact: I enjoy transforming ideas into interactive web experiences.
+- 📫 Reach me at **summitra2004@gmail.com**
+- 🌐 Portfolio: [Suman Mitra](https://suman-portfolio-weld.vercel.app/)
 
 ---
 
@@ -28,7 +27,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,c" />
+<img src="https://skillicons.dev/icons?i=js,python,c,c++,java" />
 </p>
 
 ### Frontend
@@ -40,7 +39,7 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,next,API" />
 </p>
 
 ### Database
@@ -104,11 +103,9 @@ Features:
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanmitra00&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmitra00&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -117,17 +114,7 @@ Features:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://streak-stats.demolab.com?user=sumanmitra00&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -137,21 +124,18 @@ Features:
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/suman-mitra-228958251/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sumanmitra00">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:summitra2004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://suman-portfolio-weld.vercel.app">
-🌐 Portfolio
-</a>
 
 </p>
 
