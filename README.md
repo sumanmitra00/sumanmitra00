@@ -101,7 +101,8 @@ A modern Full Stack Expense Tracker featuring:
 - 
 🔗 Live Demo
 
-https:fin-track-silk-one.vercel.app/
+https://fin-track-silk-one.vercel.app/
+
 ---
 
 ## 🧠 AI Mental Health Counselling Tool
