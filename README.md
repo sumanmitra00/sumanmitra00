@@ -98,7 +98,10 @@ A modern Full Stack Expense Tracker featuring:
 - Authentication
 - Charts
 - CSV/PDF Export
+- 
+🔗 Live Demo
 
+https:fin-track-silk-one.vercel.app/
 ---
 
 ## 🧠 AI Mental Health Counselling Tool
